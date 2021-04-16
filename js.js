@@ -2,12 +2,12 @@
 console.log("Cargado Correctamente")
 
 var firebaseConfig = {
-    apapiKey: "AIzaSyD1hZLdIJUh_9Nyp5tSeegzomB3Z47xQ9A",
-    authDomain: "peliculasets.firebaseapp.com",
-    projectId: "peliculasets",
-    storageBucket: "peliculasets.appspot.com",
-    messagingSenderId: "569454686141",
-    appId: "1:569454686141:web:51558e49bb900e17d8ecd4"
+    apiKey: "AIzaSyAKeBg1lAtbhqtdwaYCAYM_tj-JiV9ounQ",
+    authDomain: "etsp-baff7.firebaseapp.com",
+    projectId: "etsp-baff7",
+    storageBucket: "etsp-baff7.appspot.com",
+    messagingSenderId: "432208831746",
+    appId: "1:432208831746:web:ce9b87e26b325fe4674e1b"
   };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
